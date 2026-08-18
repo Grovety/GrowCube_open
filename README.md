@@ -1,6 +1,6 @@
-# GrowCube firmware — version 4.3
+# GrowCube firmware 4.3 for ESP32-C5
 
-ESP8266 firmware for GrowCube and a Windows flashing utility are available in [`GrowCube_firmware_V_4_3`](GrowCube_firmware_V_4_3/).
+ESP32-C5 firmware version 4.3 for GrowCube and a Windows flashing utility are available in [`GrowCube_firmware_V_4_3`](GrowCube_firmware_V_4_3/).
 
 Keep the `.bin` firmware file next to `flash_tool.exe`, then run the flashing utility on Windows.
 
